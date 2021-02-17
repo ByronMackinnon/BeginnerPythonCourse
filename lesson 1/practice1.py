@@ -2,7 +2,7 @@
 # (You are able to add comments to python code using a pound sign #)
 
 # Ex:
-variable = 123 # str
+variable = 123 # int
 
 variable1 = "test"                              # [Answer here]
 variable2 = 12345                               # [Answer here]
