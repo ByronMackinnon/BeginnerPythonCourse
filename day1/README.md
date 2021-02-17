@@ -108,7 +108,7 @@ else:
 While loops would be used to continuously execute code until the condition is no longer met.
 
 ```python
-loop  = True
+loop = True
 while  loop:
     name = input(“input something”)
     if  name == “stop”:
