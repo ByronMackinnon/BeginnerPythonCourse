@@ -110,9 +110,9 @@ While loops would be used to continuously execute code until the condition is no
 ```python
 loop  = True
 while  loop:
-	name = input(“input something”)
-	if  name == “stop”:
-		loop  = False
+    name = input(“input something”)
+    if  name == “stop”:
+	loop  = False
 ```
 
 ### For
