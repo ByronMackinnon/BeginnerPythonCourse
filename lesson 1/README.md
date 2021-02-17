@@ -29,16 +29,22 @@ A float would be any floating point number. So essentially any number that has a
 - 0.123
 - -12.3
 
-## Iterables
-### List (list)
+## List (list)
 A list is a mutable iterable. This means it can be changed dynamically. You can change elements, or add to it easily. Denoted using square brackets. **[]**
 
 Ex: `[“Apple”, “Banana”, “Strawberry”, “Grape”]`
 
-### Tuple (tuple)
+## Tuple (tuple)
 A tuple is a immutable iterable. Meaning it is as the data type stands. It is unable to be changed dynamically. Denoted using rounded brackets / Parenthesis **()**
 
 Ex: `(“Baseball”, “Basketball”, “Football”,)`
+
+## Dictionary (dict)
+A dictionary is a mutable iterable. This is different than a list because it has "Key/Value" pairs. You will call a value, by the key.
+
+```python
+numbers = {"one": 1, "two": 2}
+```
 
 ## Variable
 A variable would be a name you created to hold ***ANY*** specified data type. This would be done by assigning a name to a data type.
