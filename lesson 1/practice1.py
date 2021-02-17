@@ -1,6 +1,9 @@
 # Using what we have learned so far. Tell me what types of variables these are.
 # (You are able to add comments to python code using a pound sign #)
 
+# Ex:
+variable = 123 # str
+
 variable1 = "test"                              # [Answer here]
 variable2 = 12345                               # [Answer here]
 variable3 = 123.45                              # [Answer here]
