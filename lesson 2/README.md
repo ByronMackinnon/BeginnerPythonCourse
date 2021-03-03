@@ -63,6 +63,20 @@ else:
     print("Hello " + name)
 ```
 
+This is also the case for nested if statements. For example.
+```py
+x = 2
+y = 3
+
+if x == 2:
+    if y == 3:
+        print("x = 2, y = 3")
+    else:
+        print("x = 2, y != 3")
+else:
+    print("x != 2")
+```
+
 You can also use if statements in conjunction with for loops, or while loops.
 ```py
 #This is just a huge list of fruits, the actual fruits is irrelavent.
